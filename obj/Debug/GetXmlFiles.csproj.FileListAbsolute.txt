@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\GetXmlFiles\GetXmlFiles\bin\Debug\GetXmlFiles.exe.config
+C:\Users\USER\source\repos\GetXmlFiles\GetXmlFiles\bin\Debug\GetXmlFiles.exe
+C:\Users\USER\source\repos\GetXmlFiles\GetXmlFiles\bin\Debug\GetXmlFiles.pdb
+C:\Users\USER\source\repos\GetXmlFiles\GetXmlFiles\obj\Debug\GetXmlFiles.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GetXmlFiles\GetXmlFiles\obj\Debug\GetXmlFiles.exe
+C:\Users\USER\source\repos\GetXmlFiles\GetXmlFiles\obj\Debug\GetXmlFiles.pdb
+C:\Users\USER\source\repos\GetXmlFiles\GetXmlFiles\obj\Debug\GetXmlFiles.csprojAssemblyReference.cache
